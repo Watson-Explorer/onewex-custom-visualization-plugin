@@ -1,0 +1,8 @@
+{
+  "short_name": "onewex-custom-visualization-plugin",
+  "name": "onewex-custom-visualization-plugin",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

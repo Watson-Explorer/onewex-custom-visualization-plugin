@@ -1,0 +1,13 @@
+.root {
+  padding: 8px;
+  background-color: aquamarine;
+}
+
+.scroll {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.selected {
+  border: solid 2px cornflowerblue;
+}
